@@ -13,6 +13,10 @@ The application I am recommending this time is a lightweight tool that I develop
 > 
 > Data processing was a bit challenging especially dealing with HTML hierarchy and string manipulation.
 
+### Functions
+> 1. When opened, the date will be locked to the current date and all events with application dates after today will be filtered.
+> 2. There are three filters available: one for filtering by date, one for filtering by company name, and one for filtering by industry.
+> 3. Events can be switched by sliding or using the timeline at the bottom.
 
 ### interesting thing:
 > 1. the filter is added by react component, so it might cause problem when you open it on the phone;
